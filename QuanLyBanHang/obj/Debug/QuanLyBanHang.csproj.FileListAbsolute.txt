@@ -51,6 +51,8 @@ C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.rs
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.dll
+C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.SqlServer.dll
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\System.Web.We
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.dll
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.dll
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\WebGrease.dll
+C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.xml
+C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.SqlServer.xml
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.xml
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.xml
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.xml
@@ -72,7 +76,6 @@ C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\System.Web.We
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.xml
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.pdb
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
 C:\Users\Admin\Documents\TH-CNPMNC\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dll
