@@ -37,17 +37,12 @@ namespace QuanLyBanHang.Controllers
         }
 
         // GET: Faculties/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
+        public ActionResult Create() => View();
 
         // POST: Faculties/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> Create([Bind(Include = "FacultyId,FacultyName")] Faculty faculty)
+        public async Task<ActionResult> Create(Faculty faculty)
         {
             if (ModelState.IsValid)
             {
@@ -75,8 +70,6 @@ namespace QuanLyBanHang.Controllers
         }
 
         // POST: Faculties/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> Edit([Bind(Include = "FacultyId,FacultyName")] Faculty faculty)

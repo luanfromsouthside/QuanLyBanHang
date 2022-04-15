@@ -11,7 +11,8 @@ namespace QuanLyBanHang.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Faculty
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -19,8 +20,10 @@ namespace QuanLyBanHang.Models
         {
             this.Students = new HashSet<Student>();
         }
-    
+        [Required(ErrorMessage = "{0} is required")]
         public string FacultyId { get; set; }
+
+        [Required(ErrorMessage = "{0} is required")]
         public string FacultyName { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
